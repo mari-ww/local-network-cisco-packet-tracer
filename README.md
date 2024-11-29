@@ -26,11 +26,11 @@ O Projeto incluiu os seguintes passos:
 
 ### Como Abrir o Projeto
 1. Faça o download do [Cisco Packet Tracer](https://www.netacad.com/pt-br/courses/packet-tracer).  
-2. Baixe o arquivo `atividade-aval1.pkt` neste repositório.  
+2. Baixe o arquivo `local-network-config.pkt` neste repositório.  
 3. Abra o arquivo diretamente no Cisco Packet Tracer para visualizar e interagir com a rede.  
 
 ### Topologia da Rede
-![Topologia da Rede](screenshots/topologia.png)
+![Topologia da Rede](screenshots/Topologia da Rede.png)
 
 ### Configuração de DHCP
 ![Configuração de DHCP](screenshots/config-dhcp.png)
