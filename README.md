@@ -35,7 +35,7 @@ O Projeto incluiu os seguintes passos:
 ### Configuração de DHCP
 ![screenshots/Configuração-de-DHCP.png](https://github.com/mari-ww/local-network-cisco-packet-tracer/blob/main/screenshots/Configura%C3%A7%C3%A3o%20de%20DHCP.png)
 
-
 ### Configuração de HTTP
-![Configuração de HTTP1](screenshots/config-http.png)](https://github.com/mari-ww/local-network-cisco-packet-tracer/blob/main/screenshots/Configura%C3%A7%C3%A3o%20de%20HTTP_1.png)
-![Configuração de HTTP2](screenshots/config-http.png)](https://github.com/mari-ww/local-network-cisco-packet-tracer/blob/main/screenshots/Configura%C3%A7%C3%A3o%20de%20HTTP_2.png)
+![screenshots/Configuração-de-HTTP_1.png](https://github.com/mari-ww/local-network-cisco-packet-tracer/blob/main/screenshots/Configura%C3%A7%C3%A3o%20de%20HTTP_1.png)
+![screenshots/Configuração-de-HTTP_2.png](https://github.com/mari-ww/local-network-cisco-packet-tracer/blob/main/screenshots/Configura%C3%A7%C3%A3o%20de%20HTTP_2.png)
+![screenshots/Configuração-de-HTTP_3.png](https://github.com/mari-ww/local-network-cisco-packet-tracer/blob/main/screenshots/Configura%C3%A7%C3%A3o%20de%20HTTP_3.png)
