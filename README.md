@@ -30,7 +30,7 @@ O Projeto incluiu os seguintes passos:
 3. Abra o arquivo diretamente no Cisco Packet Tracer para visualizar e interagir com a rede.  
 
 ### Topologia da Rede
-![Topologia da Rede](screenshots/Topologia-da-Rede.png)
+![Topologia da Rede]([screenshots/Topologia-da-Rede.png](https://github.com/mari-ww/local-network-cisco-packet-tracer/blob/main/screenshots/Topologia%20da%20Rede.png))
 
 ### Configuração de DHCP
 ![Configuração de DHCP](screenshots/config-dhcp.png)
